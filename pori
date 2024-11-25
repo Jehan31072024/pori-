@@ -1,0 +1,26 @@
+My First HTML Project
+Welcome to my first project! This is a simple HTML webpage created to showcase my basic HTML skills. 🖥️✨
+
+📄 About This Project
+This webpage contains:
+
+A basic HTML structure
+A heading (<h1>) element to display a title
+This project is designed as a simple starting point for web development and a way to practice hosting projects online.
+
+🚀 How to View the Project
+You can view this webpage live by clicking the link below:
+Live Project
+
+
+📚 How to Use
+Clone this repository using the command:
+bash
+Copy code
+git clone https://github.com/yourusername/repositoryname.git
+Open the index.html file in any web browser to view the page.
+🛠️ Technologies Used
+HTML: For building the structure of the webpage.
+🌟 Author
+Your Name
+GitHub: Jehan31072024
